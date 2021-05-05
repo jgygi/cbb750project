@@ -4,7 +4,7 @@
 
 Joseph Canterino, Jeremy Gygi, Lisa Kim, Wenxin Xu
 
-Repository Information:
+**Repository Information:**
 
 `code`:
 
