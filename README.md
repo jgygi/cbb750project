@@ -7,5 +7,13 @@ Joseph Canterino, Jeremy Gygi, Lisa Kim, Wenxin Xu
 
 Repository Information:
 
-`figs`: 
+`code`:
+
+    `R`:
+    
+    `python`:
+
+`figures`: 
+
+`tables`: 
 
